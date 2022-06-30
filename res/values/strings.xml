@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Проверка QR-кода Госуслуг</string>
+
+    <string name="preview_area">Область предпросмотра</string>
+    <string name="capture">Кнопка захвата</string>
+
+    <string name="save_str">Сохранить</string>
+    <string name="go_over_str">Перейти</string>
+    <string name="close_str">Закрыть</string>
+
+    <string name="banner_id">ca-app-pub-3160711292937820/5147267392</string>
+    <string name="banner_test_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="interstitial_id">ca-app-pub-3160711292937820/6375554747</string>
+    <string name="interstitial_test_id">ca-app-pub-3940256099942544/1033173712</string>
+
+    <string name="attention_mess">Внимание!!! Подделка QR-кода! \n\n</string>
+    <string name="url_official_site">https://www.gosuslugi.ru/</string>
+    <string name="message_photo_save">Изображение сохранено на устройство</string>
+    <string name="not_link_message">Это не ссылка</string>
+
+
+    <string name="app_link">Проверьте достоверность QR-кода в приложении:\n
+        https://play.google.com/store/apps/details?id=com.builderlinebr.qr_codechecker</string>
+
+
+</resources>
